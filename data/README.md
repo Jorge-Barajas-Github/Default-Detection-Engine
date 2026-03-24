@@ -68,5 +68,5 @@
 
 # 
 
-# The raw dataset is not included in this repository due to file size and licensing constraints.
+# The raw dataset is not included in this repository due to file size.
 
